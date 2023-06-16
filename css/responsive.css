@@ -1,0 +1,376 @@
+@media (max-width: 1199px) {
+  .image {
+    height: 453px;
+    width: 429px;
+  }
+}
+.et_pb_blog_grid .et_pb_post {
+  width: 373px;
+}
+@media (max-width: 991px) {
+  .p_section {
+    padding: 20px 0px;
+  }
+  .image {
+    height: 334px;
+    width: 667px;
+  }
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 615px) {
+}
+
+@media (max-width: 1020) {
+}
+
+@media (max-width: 600px) {
+  .image {
+    height: 226px;
+    width: 476px;
+  }
+  .et_pb_text_0 h1 {
+    font-size: 30px;
+    line-height: 1.2em;
+  }
+  body {
+    line-height: 1.4rem;
+  }
+  .et_pb_text_0 h1 {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.3em;
+  }
+  #recent {
+    font-size: 30px;
+  }
+  #recent1 {
+    font-size: 15px;
+    line-height: 1.3rem;
+  }
+  /* #team {
+    font-size: 30px;
+  }*/
+  .et_pb_blog_grid .et_pb_post {
+    width: 478px;
+  }
+  .et_pb_blog_grid .column {
+    padding-left: 0px;
+  }
+  .tb_row {
+    width: 88%;
+  }
+}
+@media (max-width: 500px) {
+  .image {
+    height: 161px;
+    width: 331px;
+  }
+  .et_pb_text_0 h1 {
+    font-size: 30px;
+    line-height: 1.2em;
+  }
+  body {
+    line-height: 1.4rem;
+  }
+  .et_pb_text_0 h1 {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.3em;
+  }
+  #recent {
+    font-size: 30px;
+  }
+  #recent1 {
+    font-size: 15px;
+    line-height: 1.3rem;
+  }
+  #team {
+    font-size: 30px;
+  }
+  .et_pb_blog_grid .et_pb_post {
+    width: 360px;
+  }
+  .et_pb_blog_grid .column {
+    padding-left: 0px;
+  }
+  .tb_row {
+    width: 88%;
+  }
+  #ready {
+    font-size: 37px;
+  }
+}
+@media (max-width: 400px) {
+  #ready {
+    font-size: 37px;
+  }
+  .image {
+    height: 180px;
+    width: 343px;
+  }
+  body {
+    line-height: 1.4rem;
+  }
+  .et_pb_text_0 h1 {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.3em;
+  }
+
+  a,
+  abbr,
+  acronym,
+  address,
+  applet,
+  b,
+  big,
+  blockquote,
+  body,
+  center,
+  cite,
+  code,
+  dd,
+  del,
+  dfn,
+  div,
+  dl,
+  dt,
+  em,
+  fieldset,
+  font,
+  form,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  html,
+  i,
+  iframe,
+  img,
+  ins,
+  kbd,
+  label,
+  legend,
+  li,
+  object,
+  ol,
+  p,
+  pre,
+  q,
+  s,
+  samp,
+  small,
+  span,
+  strike,
+  strong,
+  sub,
+  sup,
+  tt,
+  u,
+  ul,
+  var {
+    font-size: 100%;
+  }
+  #recent {
+    font-size: 30px;
+  }
+  #recent1 {
+    font-size: 15px;
+    line-height: 1.3rem;
+  }
+  #team {
+    font-size: 30px;
+  }
+  .et_pb_blog_grid .et_pb_post {
+    width: 345px;
+  }
+  .et_pb_blog_grid .column {
+    padding-left: 0px;
+  }
+  .tb_row {
+    width: 88%;
+  }
+}
+@media (max-width: 380px) {
+  .image {
+    height: 159px;
+    width: 299px;
+  }
+  body {
+    line-height: 1.4rem;
+  }
+  .et_pb_text_0 h1 {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.3em;
+  }
+
+  a,
+  abbr,
+  acronym,
+  address,
+  applet,
+  b,
+  big,
+  blockquote,
+  body,
+  center,
+  cite,
+  code,
+  dd,
+  del,
+  dfn,
+  div,
+  dl,
+  dt,
+  em,
+  fieldset,
+  font,
+  form,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  html,
+  i,
+  iframe,
+  img,
+  ins,
+  kbd,
+  label,
+  legend,
+  li,
+  object,
+  ol,
+  p,
+  pre,
+  q,
+  s,
+  samp,
+  small,
+  span,
+  strike,
+  strong,
+  sub,
+  sup,
+  tt,
+  u,
+  ul,
+  var {
+    font-size: 100%;
+  }
+  #recent {
+    font-size: 30px;
+  }
+  #recent1 {
+    font-size: 15px;
+    line-height: 1.3rem;
+  }
+  #team {
+    font-size: 30px;
+  }
+  .et_pb_blog_grid .et_pb_post {
+    width: 325px;
+  }
+  .et_pb_blog_grid .column {
+    padding-left: 0px;
+  }
+  .tb_row {
+    width: 88%;
+  }
+}
+@media (max-width: 300px) {
+  .image {
+    height: 157px;
+    width: 252px;
+  }
+  body {
+    line-height: 1.4rem;
+  }
+  .et_pb_text_0 h1 {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.3em;
+  }
+
+  a,
+  abbr,
+  acronym,
+  address,
+  applet,
+  b,
+  big,
+  blockquote,
+  body,
+  center,
+  cite,
+  code,
+  dd,
+  del,
+  dfn,
+  div,
+  dl,
+  dt,
+  em,
+  fieldset,
+  font,
+  form,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  html,
+  i,
+  iframe,
+  img,
+  ins,
+  kbd,
+  label,
+  legend,
+  li,
+  object,
+  ol,
+  p,
+  pre,
+  q,
+  s,
+  samp,
+  small,
+  span,
+  strike,
+  strong,
+  sub,
+  sup,
+  tt,
+  u,
+  ul,
+  var {
+    font-size: 100%;
+  }
+  #recent {
+    font-size: 30px;
+  }
+  #recent1 {
+    font-size: 15px;
+    line-height: 1.3rem;
+  }
+  #team {
+    font-size: 30px;
+  }
+  .et_pb_blog_grid .et_pb_post {
+    width: 244px;
+  }
+  .et_pb_blog_grid .column {
+    padding-left: 0px;
+  }
+  .tb_row {
+    width: 88%;
+  }
+}
